@@ -1,0 +1,1 @@
+<% response.sendRedirect("/Epi1testSimpleORM/testServelet"); %>
